@@ -5,3 +5,6 @@ A simple camera shaking sample with AnimationClip. It also contains editor scrip
 License
 -------
 
+This code is distributed under the terms and conditions of the MIT license.
+
+Copyright (c) 2013 Kim, Hyoun Woo
